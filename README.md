@@ -1,6 +1,6 @@
 
 
-### Only limited instructions are provided here. For detailed instruction please refer [User guide ](http://multibootusb.org/page_guide/)
+### Only limited instructions are provided here. For detailed instruction please refer [User guide ](wiki/User-Guide)
 
 What is multibootusb?
 ---------------------
@@ -41,11 +41,11 @@ MultiBootUSB allows you to do the following:
     
     **Using source code method:**
     
-    * Please [follow the instructions](https://github.com/mbusb/multibootusb/wiki/User-Guide#installation)
+    * Please [follow the instructions](wiki/User-Guide#installation)
 
 ---
 
-For additional details please refer to the [User Guide](https://github.com/mbusb/multibootusb/wiki/User-Guide).
+For additional details please refer to the [User Guide](wiki/User-Guide).
 
 Website:
 --------
@@ -61,7 +61,7 @@ https://github.com/mbusb/multibootusb
 Help:
 -----
 
-Use Github's [issue service](https://github.com/mbusb/multibootusb/issues) 
+Use Github's [issue service](issues) 
 for help and reporting bugs.    
 
 Contributor(s)
