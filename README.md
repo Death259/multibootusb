@@ -50,7 +50,7 @@ For additional details please refer to the [User Guide](wiki/User-Guide).
 Website:
 --------
 
-http://multibootusb.org
+~~http://multibootusb.org~~ This website is no longer valid
 
 
 Development:
