@@ -1,6 +1,6 @@
 
 
-### Only limited instructions are provided here. For detailed instruction please refer [User guide ](wiki/User-Guide)
+### Only limited instructions are provided here. For detailed instruction please refer [User guide ](../../wiki/User-Guide)
 
 What is multibootusb?
 ---------------------
@@ -28,7 +28,7 @@ MultiBootUSB allows you to do the following:
 * On Windows:
     * The windows version of multbootusb is not a standalone program. You need to install it on windows after download. Download the latest 
     precompiled setup binary (`.exe`) file from 
-     [here](https://github.com/mbusb/multibootusb/releases/latest)
+     [here](../../releases/latest)
      * The installation is fairly simple. Double click on the executable and follow the onscreen instructions.
 
 * On Linux:
@@ -36,16 +36,16 @@ MultiBootUSB allows you to do the following:
     **Using binary method:**
     
     * Download the installation and source files for various distros from 
-    [here](https://github.com/mbusb/multibootusb/releases/latest)
+    [here](../../releases/latest)
     * Use your favourite package manager to install multibootusb.
     
     **Using source code method:**
     
-    * Please [follow the instructions](wiki/User-Guide#installation)
+    * Please [follow the instructions](../../wiki/User-Guide#installation)
 
 ---
 
-For additional details please refer to the [User Guide](wiki/User-Guide).
+For additional details please refer to the [User Guide](../../wiki/User-Guide).
 
 Website:
 --------
@@ -56,12 +56,13 @@ Website:
 Development:
 -----------
 
-https://github.com/mbusb/multibootusb
+Original Development: https://github.com/mbusb/multibootusb
+New Development: https://github.com/Death259/multibootusb
 
 Help:
 -----
 
-Use Github's [issue service](issues) 
+Use Github's [issue service](../../issues) 
 for help and reporting bugs.    
 
 Contributor(s)
